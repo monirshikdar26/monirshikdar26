@@ -1,8 +1,7 @@
-## Hi, I'm Maniruzzaman
+## Hi, I'm Maniruzzaman 👋
 
 ## I m Developer and Professional Trainner
 
-- 👋 Hi, I’m maniruzzman
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning laravel 8
 - 💞️ I’m looking to collaborate on mysql
