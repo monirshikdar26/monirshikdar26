@@ -8,7 +8,7 @@
 - 📫 How to reach me https://www.facebook.com/monir.shikdar.5/     
 - fun fact: I can solve Rubiks cube under 2 minutes.    
 
-**Languages and Tools:**
+**Languages and Framework:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
