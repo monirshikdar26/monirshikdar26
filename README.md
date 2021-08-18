@@ -1,6 +1,6 @@
 ## Hi, I'm Maniruzzaman
 
-## I m Developer and teacher
+## I m Developer and Professional Trainner
 
 - 👋 Hi, I’m maniruzzman
 - 👀 I’m interested in full stack web development
