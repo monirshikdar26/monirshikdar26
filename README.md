@@ -1,9 +1,9 @@
 ## Hi, I'm Maniruzzaman 👋
 
-## I m Developer and Professional Trainner
+## I m IT Professional
 
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning laravel 8
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Pyhton
 - 💞️ I’m looking to collaborate on mysql
 - 📫 How to reach me https://www.facebook.com/monir.shikdar.5/     
 - fun fact: I can solve Rubiks cube under 2 minutes.    
